@@ -1,9 +1,7 @@
 # Компилируем, пакуем и запускаем Java приложение
 
-### 1. Пишем простую программу.
+### 1. Файл с кодом Demo.java
    
-   Файл с кодом Demo.java
-
 ```java
 public class Demo {
     public static void main(String[] args) {
